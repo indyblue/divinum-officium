@@ -1,3 +1,3 @@
-03-15=03-15f=S. Clementis Mariae Hofbauer Confessoris=2=
-08-02=08-02f=S. Alphonsi Mariae de Ligorio Episc Conf et Eccles Doct=6=St Stephano Papae Martyris=1=
+03-15=fssr/03-15=S. Clementis Mariae Hofbauer Confessoris=2=
+08-02=fssr/08-02=S. Alphonsi Mariae de Ligorio Episc Conf et Eccles Doct=6=St Stephano Papae Martyris=1=
 

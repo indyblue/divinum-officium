@@ -1,2 +1,2 @@
-Tempora/Pent03-4=Sancti/Pent03-4_euch_cordis;;
+Tempora/Pent03-4=Sancti/fssr/Pent03-4;;
 
