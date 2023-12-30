@@ -5,14 +5,16 @@ Eucharistici Cordis Jesu;;II Classis;;5
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
-Doxology=Corp
-No Commemoratio
+
+[Oratio]
+Dómine Jesu Christe, qui, divítias amóris tui erga hómines effúndens, Eucharístiæ Sacraméntum condidísti: da nobis, quǽsumus; ut amantíssimum Cor tuum dilígere, et tanto Sacraménto digne semper uti valeámus:
+$Qui vivis
 
 [Invit]
-Cor Iesu, sanctíssimam Eucharístiam nobis donans, * Veníte, adorémus.
+Cor Jesu, sanctíssimam Eucharístiam nobis donans, * Veníte, adorémus.
 
 [Hymnus Matutinum]
-Cor dulce Iesu, Pábuli
+Cor dulce Jesu, Pábuli
 Invéntor eucharístici,
 Salve, piásque súscipe
 Ex orbe toto grátias.
@@ -33,7 +35,7 @@ Admíttit omnes, néminem
 Abíre tristem sústinet.
 _
 Instrúxit et Convívium,
-Dapémque nobis c&litem
+Dapémque nobis cǽlitem
 Sui minístrat Córporis,
 Suíque potum Sánguinis.
 _
@@ -44,32 +46,32 @@ Amáre discant péctora.
 Amen.
 
 [Ant Matutinum]
-Quid est homo, * quod memor es eius? aut fílius hóminis, quóniam vísitas eum?;;8
+Quid est homo, * quod memor es ejus? aut fílius hóminis, quóniam vísitas eum?;;8
 Mittat tibi Dóminus * auxílium de sancto: et de Sion tueátur te.;;19
 Misericórdia tua * subsequétur me ómnibus díebus vitæ meæ.;;22
-V. De bono thesáuro Cordis sui profert bonum, allelúia.
-R. Implens cibo et lætítia corda nostra, allelúia.
-Oculi Dómini * in eis qui sperant super misericórdia eius, ut éruat a morte ánimas eórum, et alat eos in fame.;;32
+V. De bono thesáuro Cordis sui profert bonum, allelúja.
+R. Implens cibo et lætítia corda nostra, allelúja.
+Oculi Dómini * in eis qui sperant super misericórdia ejus, ut éruat a morte ánimas eórum, et alat eos in fame.;;32
 Inebriabúntur * ab ubertáte domus tuæ, et torrénte voluptátis tuæ potábis eos.;;35
 Sitívit ánima mea * ad Deum fortem vivum, salutáre vultus mei.;;41
-V. Non esúrient, neque sítient ámplius, allelúia.
-R. Quóniam Agnus dedúcet eos ad vitæ fontes aquárum, allelúia.
+V. Non esúrient, neque sítient ámplius, allelúja.
+R. Quóniam Agnus dedúcet eos ad vitæ fontes aquárum, allelúja.
 Introíbo * ad altáre Dei: ad Deum qui lætíficat juventútem meam.;;42
 Introíbo * in domum tuam in holocáustis: reddam tibi vota mea.;;65
-Tóllite hóstias * et introíte in átria eius: adoráte Dóminum in átrio sancto ejus.;;95
-V. Inebriábo ánimam sacerdótum pinguédine, allelúia.
-R. Et pópulus meus bonis meis adimplébitur, allelúia.
+Tóllite hóstias * et introíte in átria ejus: adoráte Dóminum in átrio sancto ejus.;;95
+V. Inebriábo ánimam sacerdótum pinguédine, allelúja.
+R. Et pópulus meus bonis meis adimplébitur, allelúja.
 
 [Lectio1]
 De Epístola beáti Pauli Apóstoli ad Ephésios
 !Eph 1:3-8
 Benedíctus Deus et Pater Dómini nostri Jesu Christi, qui benedíxit nos in omni~
 benedictióne spirituáli in cæléstibus in Christo, sicut elégit nos in ipso ante~
-mundi constitutiónem, ut essémus sancti et immaculáti in conspéctu eius in~
+mundi constitutiónem, ut essémus sancti et immaculáti in conspéctu ejus in~
 caritáte. Qui prædestinávit nos in adoptiónem filiórum per Jesum Christum in~
 ipsum, secúndum propósitum voluntátis suæ, in laudem glóriæ grátiæ suæ, in qua~
 gratificávit nos in dilécto Fílio suo. In quo habémus redemptiónem per~
-sánguinem eius, remissiónem peccatórum, secúndum divítias grátiæ eius, quæ~
+sánguinem ejus, remissiónem peccatórum, secúndum divítias grátiæ ejus, quæ~
 superabundávit in nobis, in omni sapiéntia et prudéntia.
 
 [Responsory1]
@@ -92,10 +94,10 @@ virtútem, quæ operátur in nobis: ipsi glória in ecclésia et in Christo Jesu
 omnes generatiónes sǽculi sæculórum.
 
 [Responsory2]
-R. Confitémini Dómino, et invocáte nomen eius,
-* Annuntiáte inter gentes ópera eius.
-V. Cantáte ei et psállite ei: narráte ómnia mirabília eius.
-R. Annuntiáte inter gentes ópera eius.
+R. Confitémini Dómino, et invocáte nomen ejus,
+* Annuntiáte inter gentes ópera ejus.
+V. Cantáte ei et psállite ei: narráte ómnia mirabília ejus.
+R. Annuntiáte inter gentes ópera ejus.
 
 [Lectio3]
 !Eph 4:1-6
@@ -171,16 +173,203 @@ R. Et spem bonam in grátia.
 
 
 [Lectio7]
-
+Léctio sancti Evangélii secandum Lucam
+!Luc 22:15-20
+In illo témpore: Dixit Jesus discípulis suis: Desidério desiderávi hoc Pascha~
+manducáre vobíscum, ántequam pátiar. Et réliqua.
 _
+Homilía sancti Ioánnis Chrysóstomi
+!Homil. 46 in Ioann.
+Non solum per dilectiónem, sed étiam reípsa cum carne Christi commiscémur; per~
+cibum scílicet, quem dedit nobis in demonstratiónem amóris, quo erga nos~
+fervet. Ideo quippe se nobis commíscuit et in unum redégit, ut unum simus quasi~
+corpus conjúnctum cápiti; ardéntis enim amóris hoc est. Quod subíndicat Job, de~
+servis suis dicens, eos sic eum amásse, ut carni ejus admiscéri peroptárent,~
+dicéntes: Quis det nobis de cárnibus suis, ut saturémur? Hoc Christus reápse~
+fecit, ad maiórem dilectiónem nos próvocans et suum nobis demónstrans amórem.~
+Neque enim ipsum concupiscéntibus se vidéndum modo prǽbuit, sed étiam~
+tangéndum, comedéndum, déntibus teréndum, commiscéndum, omne implens~
+desidérium.
 
 [Responsory7]
+R. Confiteántur Dómino misericórdiæ ejus,
+* Et mirabília ejus fíliis hóminum.
+V. Et sacríficent sacrifícium laudis: et annúntient ópera ejus in exsultatióne.
+R. Et mirabília ejus fíliis hóminum.
 
 [Lectio8]
+Ab illa ergo mensa recedámus tamquam leónes ignem spirántes, diábolo~
+terríbiles, cogitántes, quale sit caput nostrum et quantam nobis dilectiónem~
+exhibúerit. Paréntes quidem áliis sæpe líberos suos tradunt aléndos: ego Vero,~
+inquit, cárnibus meis própriis vos alo, meípsum vobis appóno, omnes vos nóbiles~
+esse volens, et bonam de futúris spem áfferens. Nam qui in hac vita meípsum~
+vobis trádidi, multo magis in futúra hoc fáciam. Vólui frater vester fíeri,~
+commúnem vobíscum assúmens carnem et sánguinem: vicíssim trado vobis carnem et~
+sánguinem, quibus congéner factus sum vobis.
 
 [Responsory8]
+R. Ab ortu solis usque ad occásum
+* Magnum est nomen meum in géntibus.
+V. Et in omni loco sacrificátur et offértur nómini meo oblátio munda.
+R. Magnum est nomen meum in géntibus.
+&Gloria
+R. Magnum est nomen meum in géntibus.
 
 [Lectio9]
-
+Sanguis Christi régium nobis ímprimit charactérem, incredíbilem parit~
+pulchritúdinem, — ánimæ nobilitátem consérvat, virtútem magnam infúndit. Digne~
+recéptus dǽmones procul pellit, Angelos vero ádvocat; dǽmones enim fúgiunt, ubi~
+vident sánguinem domínicum, accúrrunt vero Angeli. Hic sanguis salus animárum~
+nostrárum est: eo ablúitur ánima, ornátur, incénditur; mens rédditur igne~
+splendídior et ad cælum elevátur. Cogitémus ítaque, quibúsnam nos Deus dignátus~
+sit donis, grátias agámus et glóriam referámus non solum per fidem, sed étiam~
+per ópera, ut futúra consequámur bona, grátia et benignitáte Dómini nostri Jesu~
+Christi, cui cum Patre glória, una cum Spíritu Sancto nunc et semper et in~
+sǽcula sæculórum. Amen.
 &teDeum
+
+[Ant Laudes]
+@:Ant Vespera 3:s/;;.*//g
+
+[Capitulum Laudes]
+!Eph 3:8-9
+Fratres: Mihi ómnium sanctórum mínimo data est grátia hæc, in géntibus evangelizáre investigábiles divítias Christi, et ilumináre omnes, quæ sit dispensátio sacraménti abscónditi a sǽculis in Deo, qui ómnia creávit.
+$Deo gratias
+
+[Hymnus Laudes]
+E Corde Jesu pródiit
+Oblátio, quam Gólgotha
+Vidit semel, quam míllies
+Nunc ínnovant altária.
+_
+O digna cælis Hóstia,
+Qua laus suprémo Númini
+Defértur æqua, cóncipi
+Ut nulla possit ámplior!
+_
+Dignas et ipse grátias
+Nostro repéndit nómine
+Ob dona, quæ divínitus
+Imménsa nobis áffluunt.
+_
+Ac, deprecátor, víndicem
+Exármat iram júdicis,
+Dum nostra delet crímina,
+Suo rigáta Sánguine.
+_
+Exórat omnem dénique
+Nobis bonórum cópiam;
+Ac, dives ipse, dívite
+A Patre quævis ímpetrat.
+_
+Cor dulce Jesu, múnera
+Tot unde nobis prófluunt,
+Fac nostra te medúllitus
+Amáre discant péctora.
+Amen.
+
+[Versum 2]
+V. Cáritas Christi urget nos, allelúja.
+R. Ad redamándum Cor suum, allelúja.
+
+[Ant 2]
+Sciens Jesus * quia venit hora eius, ut tránseat ex hoc mundo ad Patrem: cum dilexísset suos, qui erant in mundo, in finem diléxit eos, allelúja.
+
+[Versum Prima]
+Qui Corde fundis grátiam.
+
+[Capitulum Tertia]
+@:Capitulum Laudes
+
+[Responsory Tertia]
+R.br. De bono thesáuro Cordis sui profert bonum, * Allelúja, allelúja.
+R. De bono thesáuro Cordis sui profert bonum, * Allelúja, allelúja.
+V. Implens cibo et lætítia corda nostra.
+R. Allelúja, allelúja.
+&Gloria
+R. De bono thesáuro Cordis sui profert bonum, * Allelúja, allelúja.
+_
+V. Inebriabúntur ab ubertáte domus tuæ, allelúja.
+R. Et torrénte voluptátis tuæ potábis eos, allelúja.
+
+[Capitulum Sexta]
+!Is. 66:12
+Hæc dicit Dóminus: Ecce, ego declinábo super Jerúsalem quasi flúvium pacis, et quasi torréntem inundántem glóriam géntium, quam sugétis: ad úbera portabímini, et super génua blandiéntur vobis.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Inebriabúntur ab ubertáte domus tuæ, * Allelúja, allelúja.
+R. Inebriabúntur ab ubertáte domus tuæ, * Allelúja, allelúja.
+V. Et torrénte voluptátis tuæ potábis eos.
+R. Allelúja, allelúja.
+&Gloria
+R. Inebriabúntur ab ubertáte domus tuæ, * Allelúja, allelúja.
+_
+V. Inebriábo ánimam sacerdótum pinguédine, allelúja.
+R. Et pópulus meus bonis meis adimplébitur, allelúja.
+
+[Capitulum Nona]
+!Soph. 3:14 et 15
+Lauda, fília Sion: júbila, Israël: lætáre et exsúlta in omni corde, fília Jerúsalem: Rex Israël Dóminus in médio tui.
+$Deo gratias
+
+[Responsory Nona]
+R.br. Inebriábo ánimam sacerdótum pinguédine, * Allelúja, allelúja.
+R. Inebriábo ánimam sacerdótum pinguédine, * Allelúja, allelúja.
+V. Et pópulus meus bonis meis adimplébitur.
+R. Allelúja, allelúja.
+&Gloria
+R. Inebriábo ánimam sacerdótum pinguédine, * Allelúja, allelúja.
+_
+V. Cáritas Christi urget nos, allelúja.
+R. Ad redamándum Cor suum, allelúja.
+
+[Ant Vespera 3]
+Desidério desiderávi * hoc Pascha manducáre vobíscum, ántequam pátiar.;;109
+Veníte, * comédite panem meum, et bíbite vinum, quod míscui vobis.;;110
+Caro mea * vere est cibus, et sanguis meus vere est potus.;;115
+O quam bonus * et suávis est, Dómine, spíritus tuus, allelúja.;;127
+Latábor * super pópulo meo, cum bene eis fécero in toto corde meo et in tota ánima mea.;;147
+
+[Capitulum Vespera]
+@:Capitulum Laudes
+
+[Hymnus Vespera]
+Insidens nostris peramánter aris,
+Christus imménsis ópibus redúndat;
+Hosque thesáuros avet in redémptas
+Fúndere gentes.
+_
+O inexháustum pélagus bonórum
+Némini clausum, refluúmque late!
+Hinc tibi veras, homo, nec cadúcas
+Cóllige gazas.
+_
+Huc veni, quisquis pietáte ferves
+Quique fervórem cupis auctiórem;
+Flámmeum Jesu tibi Cor novéllos
+Ingeret ignes.
+_
+Huc veni, frigens et iners amátor;
+Ara te, Christi latitántis aula,
+Coget impénsis stúdiis amántem
+Rursus amáre.
+_
+Huc veni tandem veniámque supplex
+Posce, peccátor: lácrimas ciébit
+Uberes Jesus, quibus atra tergas
+Crímina vitæ.
+_
+Sint tibi juges, Trias alma, grates,
+Exsules quæ nos réficis supérno
+Férculo, donec sátiet perénnis
+Cena beátos.
+Amen.
+
+[Versum 3]
+V. Cáritas Christi urget nos, allelúja.
+R. Ad redamándum Cor suum, allelúja.
+
+[Ant 3]
+Ecce, ego * vobiscum sum ómnibus diébus usque ad consummatiónem sǽculi: dicit Dóminus, allelúja.
 
