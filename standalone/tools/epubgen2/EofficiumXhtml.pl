@@ -63,7 +63,7 @@ our $duplex; #1=simplex-feria, 2=semiduplex-feria privilegiata, 3=duplex
 
 #*** collect standard items
 require "$Bin/Ewebdia.pl";
-
+my $ebin = $Bin;
 #allow the script to be started directly from the "standalone/tools/epubgen2" subdirectory
 if( ! -e "$Bin/do_io.pl") {
 	$Bin = "$Bin/../../../web/cgi-bin/horas";
@@ -198,6 +198,9 @@ if (!$lang2) {$lang2 = 'English';}
 $only = ($lang1 =~ $lang2) ? 1 : 0;
 
 precedence($date1); #fills our hashes et variables
+
+require "$ebin/debug-print.pl";
+
 our $psalmnum1 = 0;
 our $psalmnum2 = 0;
 
