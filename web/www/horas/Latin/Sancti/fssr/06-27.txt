@@ -1,0 +1,66 @@
+[Rank]
+B. Mariæ Virg. a Perpetuo Succursu;;I classis;;6;;ex C11
+
+[Rule]
+ex C11;
+Psalmi Dominica
+Antiphonas horas
+9 lectiones;
+
+[Oratio]
+Dómine Jesu Christe, qui Genetrícem tuam Maríam, cuius insígnem venerámur imáginem, Matrem nobis dedísti perpétuo succúrrere parátam: concéde, quǽsumus; ut nos, matérnam eius opem assídue implorántes, Redemptiónis tuæ fructum perpétuo experíri mereámur:
+$Qui vivis.
+
+[Ant Vespera]
+Benedícta es tu, * Virgo María, a Dómino Deo excélso, pre ómnibus muliéribus super terram.
+Fecit tibi magna, * o María, qui potens est; et misericórdia eius a progénie in progénies timéntibus eum.
+Tu glória Jerúsalem, * tu laetítia Israël, tu honorificéntia pópuli nostri.
+Per te, immaculáta Virgo, * nobis est vita pérdita data, quae de cælo suscepísti prolem, et mundo genuísti Salvatórem.
+Clamávimus ad te * in témpore tribulatiónis nostræ, et tu de cælo exaudísti nos, sancta Dei Génetrix.
+
+[Capitulum Vespera]
+@Sancti/12-12n:Capitulum Vespera
+
+[Hymnus Vespera]
+O Dei Matris rádians Imágo,
+Crétice quondam veneráta genti,
+Grande nunc Romæ decus, Esquilíni
+Glória collis.
+_
+Díxeras, Virgo: Mea sistat icon
+Inter et templum, quod in Urbe legi
+Maius, et quæ sunt Laterána tecta
+Sacra Joánni.
+_
+Sic in Alfónsi, pia Mater, ædem
+Sponte venísti, míseris ut
+esses
+Perpes Adjútrix: ita te locútam,
+Alma, docémur.
+_
+Nec tamen soli pópulo Quirítum
+Prompta succúrris: simul univérso
+Súbvenis orbi, tua quem replévit
+Dulcis imágo.
+_
+Quos enim jugis séries malórum
+Urget, hoc jugi récreas medéla;
+Quidquid orámus, tua, lassa nunquam,
+Dextra minístrat.
+_
+Laus sit ætérne Tríadi, Paréntem
+Quæ dedit nobis ádeo benígnam,
+Nomen ut vulgo sit adépta
+Matris
+Usque juvántis.
+Amen.
+
+[Versum 1]
+V. Succúrre, Virgo Génetrix Christi, míseris ad te confugiéntibus.
+R. Adjuva et réfove omnes qui in te confídunt.
+
+[Invit]
+Sancta María, Dei Génetrix Virgo, Mater a Perpétuo Succúrsu: * Intercéde pro nobis.
+
+[Hymnus Matutinum]
+
