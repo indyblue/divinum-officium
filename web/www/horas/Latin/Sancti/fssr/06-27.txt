@@ -12,11 +12,11 @@ Dómine Jesu Christe, qui Genetrícem tuam Maríam, cuius insígnem venerámur i
 $Qui vivis.
 
 [Ant Vespera]
-Benedícta es tu, * Virgo María, a Dómino Deo excélso, pre ómnibus muliéribus super terram.
-Fecit tibi magna, * o María, qui potens est; et misericórdia eius a progénie in progénies timéntibus eum.
-Tu glória Jerúsalem, * tu laetítia Israël, tu honorificéntia pópuli nostri.
-Per te, immaculáta Virgo, * nobis est vita pérdita data, quae de cælo suscepísti prolem, et mundo genuísti Salvatórem.
-Clamávimus ad te * in témpore tribulatiónis nostræ, et tu de cælo exaudísti nos, sancta Dei Génetrix.
+Benedícta es tu, * Virgo María, a Dómino Deo excélso, pre ómnibus muliéribus super terram.;;109
+Fecit tibi magna, * o María, qui potens est; et misericórdia eius a progénie in progénies timéntibus eum.;;112
+Tu glória Jerúsalem, * tu laetítia Israël, tu honorificéntia pópuli nostri.;;121
+Per te, immaculáta Virgo, * nobis est vita pérdita data, quae de cælo suscepísti prolem, et mundo genuísti Salvatórem.;;126
+Clamávimus ad te * in témpore tribulatiónis nostræ, et tu de cælo exaudísti nos, sancta Dei Génetrix.;;147
 
 [Capitulum Vespera]
 @Sancti/12-12n:Capitulum Vespera
@@ -133,3 +133,108 @@ et prodigiórum cópia incláruit, ut idem cultus late in univérsum orbem se~
 diffúderit. Quibus permótus Pius nonus Congregatióni a Sanctíssimo Redemptóre~
 Missam et Offícium próprium beátæ Maríæ a Perpétuo Succúrsu benígne concéssit.
 
+[Lectio7]
+Léctio sancti Evangélii secúndum Joánnem
+!Jo 19:25-27
+In illo témpore: Stabant Juxta crucem Jesu Mater eius et soror Matris ejus~
+María Cléophe, et María Magdaléne. Et réliqua.
+_
+Homilía sancti Bernárdi Abbátis
+!Vitis mystica C. 10, n. 37, 38
+Dicit matri sue: Múlier, ecce fílius tuus; ac si díceret: Tu me fílio~
+corporáliter priváris, unde tibi únicum præ cunctis diléctum in fílium do,~
+cujus præséntia ínterim dum absum consoléris. Ad discípulum autem: Ecce mater~
+tua: quasi díceret: Tu vero me patre spoliáris, unde hanc matrem mihi~
+caríssimam tibi in matrem do; conserváte jura mútuæ caritátis ad ínvicem, tu~
+istum fílium, tu istam matrem habéndo. O quam muníficus factus es in núptiis~
+tuis, rex et sponse bone Jesu! quam large quæ habuísti, ómnia tradidísti! Ecce~
+ipsis crucifixóribus tuis oratiónis afféctum, latróni paradísum, matri fílium,~
+fílio matrem, mórtuis vitam, mánibus Patris ánimam tuam, toti mundo signa~
+poténtiæ tuæ contulísti! Sed movet me, quod cum dixísset: Múlier, ecce fílius~
+tuus; subjúnxit: Ecce mater tua; cum útique, etiámsi hoc non subjunxísset,~
+necessárium fuísset eam esse matrem illíus, qui in fílium sibi datus erat.
+
+[Lectio8]
+Sed hoc mútuæ caritátis afféctum mihi commendáre vidétur. Sunt enim nonnúlli~
+qui ab ómnibus amári volunt, sed nullos afféctu mútuo complectúntur; et volunt~
+ut eórum labóres et dolóres alleviéntur, et cum ferántur a plúribus, ipsi~
+nullíus ónera volunt portáre. Non hoc enim Christus dócuit, aut fecit; portávit~
+enim ónera tua, invítans te, ut et tu ónera portes illíus, id est ut passiónem~
+illíus imitéris.
+
+[Lectio9]
+Christus enim passus est, relínquens nobis exémplum ut sequámur vestígia ejus.~
+Hoc et dócuit, cum matrem discípulo, et matri discípulum muútuo commendávit;~
+nimírum nolens ut cáritas spirituális ex una parte frígida remanéret; sed ut~
+simul dormiéntes, idest in vera et pura caritáte simul quiescéntes, mútuo~
+calefíant, idest alter ab áltero ad caritátis exercítia mútuo accendántur.
+&teDeum
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+Vocáta dulci nómine
+Fons jugis adjutórii,
+María, nobis júgiter
+Succúrre mater fíliis.
+_
+Succúrre, si nos tǽdeat
+Viam salútis prósequi:
+Firma labántes, ádmove
+Hæréntibus calcária.
+_
+Succúrre, si quod ímminet
+Discrímen ipsi córpori:
+Ægris, egénis, fléntibus
+Opem minístra próvidam.
+_
+Succúrre tandem fíliis
+Cum morte colluctántibus:
+Fac certa sit victória
+Certúmque cæli prémium.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Versum 2]
+V. Vide misériam nostram, Mater potentíssima.
+R. Et de anxietátibus nostris érue nos.
+
+[Ant 2]
+Memoráre, * piíssima María, a sǽculo non esse audítum, quemquam ad tua prasídia~
+confugiéntem esse derelíctum. Ad te vénio, o clemens indigéntibus, o pia~
+exorántibus, o dulcis diligéntibus.
+
+[Versum Prima]
+Qui natus es de María Vírgine.
+
+[Capitulum Tertia]
+@:Capitulum Laudes
+
+[Capitulum Sexta]
+!Sir 24:24-30
+Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. In me~
+grátia omnis viæ et veritátis: in me omnis spes vitæ et virtútis.
+$Deo gratias
+
+[Capitulum Nona]
+!Prov. 8:17-18,21
+Ego diligéntes me díligo: et qui mane vígilant ad me, invénient me. Mecum sunt~
+divítiæ et glória, opes supérbæ et justítia: ut ditem diligéntes me, et~
+thesáuros eórum répleam.
+$Deo gratias
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+Sub tuum præsídium * confúgimus, sancta Dei Génetrix: nostras deprecatiónes ne~
+despícias in necessitátibus, sed a perículis cunctis líbera nos semper, Virgo~
+gloriósa et benedícta.
