@@ -7,6 +7,163 @@ Psalmi Dominica
 Antiphonas horas
 
 [Oratio]
-Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devícta morte, nos misericórditer ad vitam reparásti: concéde; ut, hæc benefícia recoléntes, tibi perpétua caritáte adharére, et eiísdem redemptiónis fructum percípere mereámur. 
+Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devícta~
+morte, nos misericórditer ad vitam reparásti: concéde; ut, hæc benefícia~
+recoléntes, tibi perpétua caritáte adharére, et eiísdem redemptiónis fructum~
+percípere mereámur.
 $Per eundem Dominum.
 
+[Ant Vespera]
+Virgam virtátis * suæ emíttet Dóminus ex Sion, et regnábit in sǽculum sǽculi.;;109
+Redemptiónem misit Dóminus pópulo suo: mandávit in ætérnum testaméntum suum.;;110
+Misericórdia mea, * et refúgium meum Dóminus: suscéptor meus, et liberátor meus.;;115
+Apud Dóminum * misericórdia, et copiósa apud eum redémptio.;;129
+In quacúmque die * invocávero te, exáudies me: multiplicábis in ánima mea virtútem.;;137
+
+[Capitulum Vespera]
+!Tob. 3, 13
+Benedíctum nomen tuum, Deus patrum nostrórum: qui cum irátus fúeris,~
+misericórdiam fácies, et in témpore tribulatiónis peccáta dimíttis his, qui~
+ínvocant te.
+
+[Hymnus Vespera]
+Creátor alme síderum,
+Ætérna lux credéntium,
+Jesu, Redémptor ómnium,
+Inténde votis súpplicum.
+_
+Commúne qui mundi nefas
+Ut expiáres, ad crucem
+E Vírginis sacrário
+Intácta prodis víctima.
+_
+Cujus potéstas glóriæ
+Noménque cum primum sonat,
+Et cǽlites et ínferi
+Treménte curvántur genu.
+_
+Qui dǽmonis ne fráudibus
+Períret orbis, ímpetu
+Amóris actus, lánguidi
+Mundi medéla factus es.
+_
+Te deprecámur últimæ
+Magnum diéi Júdicem,
+Armis supérnæ grátiæ
+Defénde nos ab hóstibus.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu
+In sempitérna sǽcula.
+Amen.
+
+[Versum 1]
+@Sancti/07-01:Versum 1
+
+[Ant 1]
+Salus autem mea * in sempitérnum erit, et iustítia mea in generatiónes generatiónum, allelúja.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Invit]
+Redemptórem sæculórum, ipsum Regem Angelórum, * Adorémus Dóminum.
+
+[Hymnus Matutinum]
+Rerum Creátor óptime,
+Rectórque noster, áspice:
+Nos a quiéte nóxia
+Mersos sopóre líbera.
+_
+Mentes manúsque tóllimus,
+Prophéta sicut nóctibus
+Nobis geréndum prǽcipit,
+Paulúsque gestis cénsuit.
+_
+Te, sancte Christe, póscimus,
+Ignósce culpis ómnibus:
+Ad confiténdum súrgimus,
+Morásque noctis rúmpimus.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu
+In sempitérna sǽcula.
+Amen.
+
+[Ant Matutinum]
+Voce mea * ad Dóminum clamávi, et exaudívit me de monte sancto suo.;;3
+Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!;;8
+Dóminus in templo * sancto suo: Dóminus in cælo sedes eius.;;10
+V. Rédime me, Dómine, et miserére mei.
+R. In ecclésiis benedícam te, Dómine.
+Suscépimus, Deus, * misericórdiam tuam in médio templi tui.;;19
+Tu es ipse * rex meus, qui mandas salútes in Jacob.;;23
+Immola Deo * sacrifícium laudis, et redde Altíssimo vota tua.;;45
+V. Meménto nostri, Dómine, in beneplácito pópuli tui.
+R. Vísita nos in salutári tuo.
+Ego autem * ad Deum clamávi, et Dóminus salvávit me.;;60
+Deus meus, * Salvátor meus, salutáre meum, et spes mea in ætérnum.;;74
+Protéctor noster, * áspice, Deus, et réspice in fáciem Christi tui.;;83
+V. Notam fecísti in Géntibus virtútem tuam.
+R. Redemísti in brácchio tuo pópulum tuum.
+
+[Lectio1]
+De Isaía Prophéta
+!Isa 51:1-5
+Audíte me, qui sequímini quod justum est, et quǽritis Dóminum: atténdite ad~
+petram unde excísi estis, et ad cavérnam laci, de qua præcísi estis.~
+Consolábitur ergo Dóminus Sion, et consolábitur omnes ruínas ejus: et ponet~
+desértum ejus quasi delícias, et solitúdinem ejus quasi hortum Dómini. Gáudium~
+et lætítia inveniétur in ea, gratiárum áctio et vox laudis. Atténdite ad me,~
+pópule meus, et tribus mea, me audíte: quia lex a me éxiet, et judícium meum in~
+lucem populórum requiéscet. Prope est justus meus, egréssus est salvátor meus,~
+et brácchia mea pópulos judicábunt: me ínsulæ exspectábunt, et brácchium meum~
+sustinébunt.
+
+[Responsory1]
+@Tempora/Pent01-0:Responsory1
+
+[Lectio2]
+!Isa 51:6-8
+Leváte in cælum óculos vestros, et vidéte sub terra deórsum: quia cæli sicut~
+fumus liquéscent, et terra sicut vestiméntum atterétur, et habitatóres ejus~
+sicut hæc interíbunt: Salus autem mea in sempitérnum erit, et justítia mea non~
+defíciet. Audíte me, qui scitis justum, pópulus meus, lex mea in corde eórum:~
+nolíte timére oppróbrium hóminum, et blasphémias eórum ne metuátis. Sicut enim~
+vestiméntum, sic cómedet eos vermis: et sicut lanam, sic devorábit eos tínea:~
+Salus autem mea in sempitérnum erit, et justítia mea in generatiónes~
+generatiónum.
+
+[Responsory2]
+@Tempora/111-0:Responsory3
+
+[Lectio3]
+!Isa 51:9-15
+Consúrge, consúrge, indúere fortitúdinem, brácchium Dómini, consúrge sicut in~
+diébus antíquis, in generatiónibus sæculórum. Numquid non tu percussísti~
+supérbum, vulnerásti dracónem? Numquid non tu siccásti mare, aquam abýssi~
+veheméntis: qui posuísti profúndum maris viam, ut transírent liberáti? Et nunc,~
+qui redémpti sunt a Dómino, reverténtur, et vénient in Sion laudántes, et~
+lætítia sempitérna super cápita eórum: gáudium et lætítam tenébunt, fúgiet~
+dolor et gémitus. Ego, ego ipse consolábor vos: quis tu, ut timéres ab hómine~
+mortáli, et a fílio hóminis, qui quasi fœnum ita aréscet? Et oblítus es Dómini~
+factóris tui, qui teténdit cælos, et fundávit terram: et formidásti júgiter~
+tota die a fácie furóris ejus, qui te tribulábat, et paráverat ad perdéndum:~
+ubi nunc est furor tribulántis? Cito véniet grádiens ad aperiéndum, et non~
+interfíciet usque ad interneciónem, nec defíciet panis eius. Ego autem sum~
+Dóminus Deus tuus.
+
+[Responsory3]
+@Tempora/Epi2-0:Responsory2:s/(R\. .*$)/\1\n&Gloria\n\1/
+
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Versum 3]
+@Versum 1
+
+[Ant 3]
+Regnum tuum, * regnum ómnium sæculórum, et dominátio tua in omni generatióne, et generatiónem, allelúja.
