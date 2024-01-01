@@ -1,0 +1,12 @@
+[Rank]
+In Solemnitate Ss.mi Redemptoris;;I Classis;;6;;ex C5
+
+[Rule]
+9 lectiones
+Psalmi Dominica
+Antiphonas horas
+
+[Oratio]
+Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devícta morte, nos misericórditer ad vitam reparásti: concéde; ut, hæc benefícia recoléntes, tibi perpétua caritáte adharére, et eiísdem redemptiónis fructum percípere mereámur. 
+$Per eundem Dominum.
+
