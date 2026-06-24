@@ -62,7 +62,7 @@ function make_file(){
   }
 }
 
-y=2024
+y=2026
 dates="03-15 06-13 06-27 07-20 07-21 08-01 08-02"
 debug=$1
 
@@ -97,15 +97,20 @@ function asdf(){
     done
   done
 } || {
-    y=2024
+    y=2026
+    d0=06-26
+    d=06-27
+    #d0=07-18
+    # d=07-19
     debug=cal
     noredir=1
-    make_file 07-20-$y 6;
-    make_file 07-21-$y 1;
+    make_file $d0-$y 6;
+    make_file $d-$y 1;
     noredir=
     debug=
-    make_file 07-20-$y 6;
-    MDY=07-21-$y
+    make_file $d0-$y 6;
+    make_file $d0-$y 7;
+    MDY=$d-$y
     for H in $(seq 0 $HORA_INDEX_LAST); do
       make_file $MDY $H;
     done
