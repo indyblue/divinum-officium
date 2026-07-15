@@ -11,21 +11,241 @@ CPapaM=Stéphanum;
 (sed rubrica tridentina) CPapaM=Stéphani;
 
 [Oratio]
-Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem, animárum zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut, ejus salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter valeámus.
+Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem,~
+animárum zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut,~
+ejus salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter~
+valeámus.
 $Per Dominum.
+
+[Ant Vespera]
+Sacérdos magnus, * qui in vita sua suffúlsit domum et in diébus suis corroborávit templum.;;109
+Potens * in terra erit semen ejus, generátio rectórum benedicétur.;;110
+Dispérsit, * dedit paupéribus; justítia ejus manet in sǽculum sǽculi.;;115
+Justítiam tuam * non abscóndi in corde meo, veritátem tuam et salutáre tuum dixi.;;127
+Passer * invénit sibi domum, et turtur nidum sibi: altária tua, Dómine virtútum, Rex meus et Deus meus.;;147
+
+[Capitulum Vespera]
+!2 Tim 2:1-3
+Tu ergo, fili mi, confortáre in grátia, quæ est in Christo Jesu: et quæ audísti a me per multos testes, hæc comménda fidélibus homínibus, qui idónei erunt et álios docére. Labóra sicut bonus miles Christi Jesu.
+
+[Hymnus Vespera]
+Quem sanctus cécinit jam fore præsulem
+Spargéntem fídei sémina lárgiter,
+Nos sanctum cólimus, nos pio ad ǽthera
+Grati cármine tóllimus.
+_
+Virtútis spéciem vix tener áspicit
+Alfónsus, cómitem jam sibi víndicat;
+Alfónsi píetas crescit, ut árbores
+Puri in márgine flúminis.
+_
+Avértens ánimum rebus inánibus,
+Ætérnis inhíat lætus honóribus;
+Erróris fácie térritus ipsíus
+Plausus posthábuit fori.
+_
+Pertésus Satánæ fraudis et ártium,
+Mundi blandítias réspuit ímpiger:
+Et voto gládium Vírginis ad pedes
+Suspéndit céleri gradu.
+_
+Hinc trita túnica cinctus et áspera,
+Christi totus avet pándere glóriam;
+Per prærupta loci, celsa per óppida,
+Sub signo crucis ámbulat.
+_
+Sacris ut Séraphim flagrat in ǽdibus:
+In se verbéribus sævit atrócibus:
+Quo sit grata magis víctima Númini
+Frangit membra labóribus.
+_
+Sit laus, summa Trias, sit tibi glória,
+Quæ res atque hómines próvida témperas;
+Et fac ut píetas úndique flóreat
+Alfónso duce et áuspice.
+Amen.
+
+[Versum 1]
+V. Sapiéntiam ipsíus narrent pópuli.
+R. Et laudem ejus annúntiet Ecclésia.
+
+[Ant 1]
+O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte Alfónse María, divínæ legis amátor, deprecáre pro nobis Fílium Dei.
+
+[Invit]
+Christum Príncipem Pastórum, qui beátum hódie coronávit Alfónsum: * Veníte, adorémus.
+
+[Hymnus Matutinum]
+Emícans zelo, pietáte fulgens
+Vulgat Alfónsus sacra jussa Christi:
+Cáritas urget, comitátur alma
+Grátia fantem.
+_
+Vírgines, sponsæ, júvenes senésque
+Obviam sancto vólitant frequéntes;
+Et bibunt densi cupida supérnam
+Aure salútem.
+_
+Trístis hic pingens Erebi tenébras,
+Térritat, vincit fera corda; quærit
+Dévios illic, bonus et repórtat
+Pastor ovíli.
+_
+Quo pedes ponit generósus heros,
+Diffúgit passim scélerum catérva;
+Auréï mores redeunt, fidesque
+Diva renídet.
+_
+Dum Dei Matris benefácta pandit,
+Vultus extémplo rádiis corúscat:
+Gáudium miscens pópulo dolóri
+Accipit omen.
+_
+Sint tibi laudes, tibi sint honóres,
+Trinitas summo veneránda cultu:
+Fac ut Alfónsi decus æmulántes
+Astra petámus.
+Amen.
+
+[Ant Matutinum]
+Surréxit quasi ignis, * et verbum ipsíus quasi fácula ardébat.;;1
+Ipse est diréctus * divínitus in pæniténtiam géntium, et tulit abominatiónes impietátis.;;2
+Sis mihi servus * ad suscitándas tribus Jacob, et faces Israël converténdas.;;3
+Signa facta sunt * super vos in omni patiéntia, et prodígiis, et virtúte.;;4
+Deféctio ténuit me * pro peccatóribus derelinquéntibus legem tuam.;;5
+Tamquam imbres * mittet elóquia sapiéntiæ suæ, et in oratióne confitébitur Dómino.;;8
+Curávit gentem suam, * et liberávit eam a perditióne.;;14
+Quasi sol refúlgens, * sic ille effúlsit in templo Dei.;;20
+Omnium ártifex * dócuit me Sapiéntia; in illa spíritus intellegéntiæ multiplex.;;23
+
+[Lectio1]
+De libro Ecclesiástici
+!Eccli 39:1-5
+Sapiéntiam ómnium antiquórum exquíret sápiens, et in Prophétis vacábit.~
+Narratiónem virórum nominatórum conservábit, et in versútias parabolárum simul~
+introíbit. Occúlta proverbiórum exquíret, et in abscónditis parabolárum~
+conversábitur. In médio magnatórum ministrábit, et in conspéctu præsídis~
+apparébit. In terram alienígenarum géntium pertransíet; bona enim et mala in~
+homínibus tentábit.
+
+[Responsory1]
+R. Cum autem plácuit ei, qui me segregávit ex útero matris meæ: * Ut evangelizárem illum in géntibus.
+V. Contínuo non acquiévi carni et sánguini.
+R. Ut evangelizárem illum in géntibus.
+
+[Lectio2]
+!Eccli 39:6-10
+Cor suum tradet ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in~
+conspéctu Altíssimi deprecábitur. Apériet os suum in oratióne, et pro delíctis~
+suis deprecábitur. Si enim Dóminus magnus volúerit, spíritu intelligéntiæ~
+replébit illum: et ipse tamquam imbres mittet elóquia sapiéntiæ suæ, et in~
+oratióne confitébitur Dómino: et ipse díriget consílium ejus et disciplínam, et~
+in abscónditis suis consiliábitur.
+
+[Responsory2]
+R. Si commórtui sumus, et convivémus; si sustinébimus, * Et conregnábimus.
+V. Omnia sustíneo propter eléctos, ut et ipsi salútem consequántur.
+R. Et conregnábimus.
+
+[Lectio3]
+!Eccli 39:11-14
+Ipse palam fáciet disciplínam doctrínæ suæ, et in lege testaménti Dómini~
+gloriábitur. Collaudábunt multi sapiéntiam ejus, et usque in sǽculum non~
+delébitur. Non recédet memória ejus, et nomen ejus requirétur a generatióne in~
+generatiónem. Sapiéntiam ejus enarrábunt gentes, et laudem ejus enuntiábit~
+Ecclésia.
+
+[Responsory3]
+R. Dóminus mihi ástitit et confortávit me: * Ut per me prædicátio impleátur.
+V. Bonum certámen certávi, cursum consummávi, fidem servávi.
+R. Ut per me prædicátio impleátur.
+&Gloria
+R. Ut per me prædicátio impleátur.
 
 [Commemoratio]
 !Commemoratio S. Stephani Papæ et Martyris
 @Commune/C2:Oratio1 Gregem
 
 [Lectio4]
-Alfonsus Maria de Ligorio, Neapoli nobílibus paréntibus natus, ab ineunte ætate non obscura præbuit sanctitátis indicia. Eum adhuc infántem cum paréntes obtulissent sancto Francisco de Hieronymo e societáte Jesu, is bene precátus edíxit eumdem ad nonagesimum usque annum perventurum, ad episcopalem dignitátem evectum iri, maximóque Ecclésiæ bono futurum. Jam tum a puerítia, a ludis abhorrens, nóbiles ephébos ad christianam modestiam verbo et exemplo componebat. Adoléscens, dato piis sodalitátibus nómine, in publicis nosocomíis ægrotis inservire, jugi in templis oratióni vacare, ac sacra mysteria frequenter obire in deliciis habebat. Pietátem litterárum stúdiis adeo conjunxit, ut séxdecim vix annos natus utriusque juris lauream in pátria universitáte fúerit assecutus. Patri obtemperans, causárum patrocinia suscépit; in quo munere obeundo, etsi magnam sibi laudem comparasset, fori tamen pericula expertus, ejusmodi vitæ institutum ultro dimísit. Spreto ígitur præcláro conjugio sibi a patre propósito, avíta primogenitúra abdicata, et ad aram Vírginis de Mercede ense suspenso, divinis ministériis se mancipávit. Sacerdos factus, tanto zelo irruit in vitia, ut apostolico munere fungens, huc illuc pérvolans, ingéntes perditórum hóminum conversiónes perágeret. Páuperum præsertim et ruricolárum miseratus, congregatiónem Presbyterórum instituit sanctíssimi Redemptoris, qui, ipsum Redemptórem secuti, per agros, pagos, et castella paupéribus evangelizarent.
+Alfonsus Maria de Ligorio, Neapoli nobílibus paréntibus natus, ab ineunte ætate~
+non obscura præbuit sanctitátis indicia. Eum adhuc infántem cum paréntes~
+obtulissent sancto Francisco de Hieronymo e societáte Jesu, is bene precátus~
+edíxit eumdem ad nonagesimum usque annum perventurum, ad episcopalem dignitátem~
+evectum iri, maximóque Ecclésiæ bono futurum. Jam tum a puerítia, a ludis~
+abhorrens, nóbiles ephébos ad christianam modestiam verbo et exemplo~
+componebat. Adoléscens, dato piis sodalitátibus nómine, in publicis nosocomíis~
+ægrotis inservire, jugi in templis oratióni vacare, ac sacra mysteria~
+frequenter obire in deliciis habebat. Pietátem litterárum stúdiis adeo~
+conjunxit, ut séxdecim vix annos natus utriusque juris lauream in pátria~
+universitáte fúerit assecutus. Patri obtemperans, causárum patrocinia suscépit;~
+in quo munere obeundo, etsi magnam sibi laudem comparasset, fori tamen pericula~
+expertus, ejusmodi vitæ institutum ultro dimísit. Spreto ígitur præcláro~
+conjugio sibi a patre propósito, avíta primogenitúra abdicata, et ad aram~
+Vírginis de Mercede ense suspenso, divinis ministériis se mancipávit. Sacerdos~
+factus, tanto zelo irruit in vitia, ut apostolico munere fungens, huc illuc~
+pérvolans, ingéntes perditórum hóminum conversiónes perágeret. Páuperum~
+præsertim et ruricolárum miseratus, congregatiónem Presbyterórum instituit~
+sanctíssimi Redemptoris, qui, ipsum Redemptórem secuti, per agros, pagos, et~
+castella paupéribus evangelizarent.
+
+[Responsory4]
+R. Erat manus Dómini cum eo, multúsque númerus credéntium convérsus est ad Dóminum: * Hortabátur omnes in propósito cordis permanére in Dómino.
+V. Et appósita est multa turba Dómino.
+R. Hortabátur omnes in propósito cordis permanére in Dómino.
 
 [Lectio5]
-Ne autem a propósito umquam diverteret, perpetuo se voto obstrinxit nullam témporis jacturam faciéndi. Hinc animárum zelo succénsus, tum divini verbi prædicatióne, tum scriptis sacra eruditióne et pietáte refertis, ánimas Christo lucrifácere et ad perfectiórem vitam adducere studuit. Mirum sane quot odia exstinxerit, quot devios ad rectum salútis iter revocaverit. Dei Genitrícis cultor exímius, de illíus laudibus librum edidit, ac de iis dum ferventius concionando disserit, a Vírginis imagine, in eum immisso miro splendore, totus fácie coruscare et in éxtasim rapi coram universo pópulo non semel visus est. Dominicæ passiónis et sacræ Eucharistiæ contemplator assiduus, ejus cultum mirifice propagávit. Dum vero ad ejus aram oraret vel Sacrum fáceret, quod numquam omisit, præ amoris veheméntia, vel seraphicis liquescebat ardóribus, vel insólitis quatiebátur mótibus, vel abstrahebátur a sensibus. Miram vitæ innocéntiam, quam nulla umquam lethali labe fœdávit, pari cum pœniténtia socians, corpus suum inedia, férreis caténulis, ciliciis cruentáque flagellatióne castigábat. Inter hæc prophetíæ, scrutatiónis cordium, bilocatiónis et miraculórum donis incláruit.
+Ne autem a propósito umquam diverteret, perpetuo se voto obstrinxit nullam~
+témporis jacturam faciéndi. Hinc animárum zelo succénsus, tum divini verbi~
+prædicatióne, tum scriptis sacra eruditióne et pietáte refertis, ánimas Christo~
+lucrifácere et ad perfectiórem vitam adducere studuit. Mirum sane quot odia~
+exstinxerit, quot devios ad rectum salútis iter revocaverit. Dei Genitrícis~
+cultor exímius, de illíus laudibus librum edidit, ac de iis dum ferventius~
+concionando disserit, a Vírginis imagine, in eum immisso miro splendore, totus~
+fácie coruscare et in éxtasim rapi coram universo pópulo non semel visus est.~
+Dominicæ passiónis et sacræ Eucharistiæ contemplator assiduus, ejus cultum~
+mirifice propagávit. Dum vero ad ejus aram oraret vel Sacrum fáceret, quod~
+numquam omisit, præ amoris veheméntia, vel seraphicis liquescebat ardóribus,~
+vel insólitis quatiebátur mótibus, vel abstrahebátur a sensibus. Miram vitæ~
+innocéntiam, quam nulla umquam lethali labe fœdávit, pari cum pœniténtia~
+socians, corpus suum inedia, férreis caténulis, ciliciis cruentáque~
+flagellatióne castigábat. Inter hæc prophetíæ, scrutatiónis cordium,~
+bilocatiónis et miraculórum donis incláruit.
+
+[Responsory5]
+R. Addúxit sacerdótes et levítas, et congregávit eos. Dixítque ad eos: * Messis quidem multa, operárii autem pauci.
+V. Rogáte ergo Dóminum messis, ut mittat operários in messem suam.
+R. Messis quidem multa, operárii autem pauci.
 
 [Lectio6]
-Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhorruit; at, Clementis décimi tertii Pontificis auctoritate coactus, sanctæ Agathæ Gothórum ecclésiam gubernándum suscépit. Epíscopus, externum dumtaxat habitum, non autem sevéram vivéndi ratiónem immutávit. Eadem frugalitas, summus christianæ disciplinæ zelus, impensum in vitiis coërcéndis arcendisque erróribus, et in réliquis pastorálibus munéribus obeundis studium. Liberalis in páuperes, omnes ecclésiæ proventus iisdem distribuebat, ac, urgénte annonæ caritate, ipsam domesticam supellectilem in aléndis famélicis erogávit. Omnibus ómnia factus, sanctimoniáles ad perfectiórem vivéndi formam redégit, suæque congregatiónis moniálium monastérium constituéndum curávit. Episcopatu ob graves habitualesque morbos dimisso, ad alumnos suos, a quibus pauper discesserat, revértitur pauper. Demum, quamvis senio labóribusque, diuturna arthrítide aliisque gravíssimis morbis fractus corpore, spíritu tamen alacrior, de cæléstibus rebus disseréndi aut scribéndi finem numquam adhibuit, donec nonagenarius, Kaléndis Augusti, anno millesimo septingentésimo octogesimo septimo, Nucériæ Paganórum, inter suórum alumnórum lácrimas, placidíssime exspirávit. Eum, inde virtútibus et miraculis clarum, Pius septimus Pontifex maximus anno millesimo octingentésimo décimo sexto Beatórum fastis; novisque fulgentem signis, Gregórius décimus sextus in festo sanctíssimæ Trinitátis, anno millesimo octingentésimo trigesimo nono, solemni ritu, Sanctórum catálogo accensuit. Tandem Pius nonus Pontifex maximus, ex sacrórum Rituum Congregatiónis consulto, universalis Ecclésiæ Doctórem declarávit.
+Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhorruit; at,~
+Clementis décimi tertii Pontificis auctoritate coactus, sanctæ Agathæ Gothórum~
+ecclésiam gubernándum suscépit. Epíscopus, externum dumtaxat habitum, non autem~
+sevéram vivéndi ratiónem immutávit. Eadem frugalitas, summus christianæ~
+disciplinæ zelus, impensum in vitiis coërcéndis arcendisque erróribus, et in~
+réliquis pastorálibus munéribus obeundis studium. Liberalis in páuperes, omnes~
+ecclésiæ proventus iisdem distribuebat, ac, urgénte annonæ caritate, ipsam~
+domesticam supellectilem in aléndis famélicis erogávit. Omnibus ómnia factus,~
+sanctimoniáles ad perfectiórem vivéndi formam redégit, suæque congregatiónis~
+moniálium monastérium constituéndum curávit. Episcopatu ob graves habitualesque~
+morbos dimisso, ad alumnos suos, a quibus pauper discesserat, revértitur~
+pauper. Demum, quamvis senio labóribusque, diuturna arthrítide aliisque~
+gravíssimis morbis fractus corpore, spíritu tamen alacrior, de cæléstibus rebus~
+disseréndi aut scribéndi finem numquam adhibuit, donec nonagenarius, Kaléndis~
+Augusti, anno millesimo septingentésimo octogesimo septimo, Nucériæ Paganórum,~
+inter suórum alumnórum lácrimas, placidíssime exspirávit. Eum, inde virtútibus~
+et miraculis clarum, Pius septimus Pontifex maximus anno millesimo~
+octingentésimo décimo sexto Beatórum fastis; novisque fulgentem signis,~
+Gregórius décimus sextus in festo sanctíssimæ Trinitátis, anno millesimo~
+octingentésimo trigesimo nono, solemni ritu, Sanctórum catálogo accensuit.~
+Tandem Pius nonus Pontifex maximus, ex sacrórum Rituum Congregatiónis consulto,~
+universalis Ecclésiæ Doctórem declarávit.
+
+[Responsory6]
+R. Factus sum infírmus infirmis, ut infírmos lucrifácerem: * Omnibus ómnia factus sum, ut omnes fácerem salvos.
+V. Omnia autem fácio propter Evangélium, ut párticeps ejus effíciar.
+R. Omnibus ómnia factus sum, ut omnes fácerem salvos.
+&Gloria
+R. Omnibus ómnia factus sum, ut omnes fácerem salvos.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
@@ -34,19 +254,200 @@ In illo témpore: Designávit Dóminus et alios septuagínta duos: et misit illo
 _
 Homilía sancti Gregórii Papæ
 !Homilia 17 in Evangelia
-Dóminus et Salvátor noster, fratres caríssimi, aliquándo nos sermónibus, aliquándo vero opéribus admonet. Ipsa étenim facta ejus præcepta sunt; quia, dum aliquid tacitus facit, quid ágere debeámus innotescit. Ecce enim binos in prædicatiónem discipulos mittit; quia duo sunt præcepta caritátis, Dei videlicet amor et próximi, et minus quam inter duos caritas haberi non potest. Nemo enim proprie ad semetípsum habere caritátem dícitur; sed diléctio in álterum tendit, ut caritas esse possit.
+Dóminus et Salvátor noster, fratres caríssimi, aliquándo nos sermónibus,~
+aliquándo vero opéribus admonet. Ipsa étenim facta ejus præcepta sunt; quia,~
+dum aliquid tacitus facit, quid ágere debeámus innotescit. Ecce enim binos in~
+prædicatiónem discipulos mittit; quia duo sunt præcepta caritátis, Dei~
+videlicet amor et próximi, et minus quam inter duos caritas haberi non potest.~
+Nemo enim proprie ad semetípsum habere caritátem dícitur; sed diléctio in~
+álterum tendit, ut caritas esse possit.
+
+[Responsory7]
+R. Loquitur, quasi sermónes Dei; minístrat, * Tamquam ex virtúte, quam administrat Deus.
+V. Ut in ómnibus honorificétur Deus per Christum.
+R. Tamquam ex virtúte, quam administrat Deus.
 
 [Lectio8]
-Ecce enim binos ad prædicándum discipulos Dóminus mittit; quatenus hoc nobis tacitus innuat, quia, qui caritátem erga álterum non habet, prædicatiónis offícium suscipere nullatenus debet. Bene autem dícitur, quia misit eos ante fáciem suam in omnem civitátem et locum, quo erat ipse venturus. Prædicatores enim suos Dóminus sequitur: quia prædicátio prævenit, et tunc ad mentis nostræ habitáculum Dóminus venit, quando verba exhortatiónis præcurrunt, atque per hoc véritas in mente suscipitur.
+Ecce enim binos ad prædicándum discipulos Dóminus mittit; quatenus hoc nobis~
+tacitus innuat, quia, qui caritátem erga álterum non habet, prædicatiónis~
+offícium suscipere nullatenus debet. Bene autem dícitur, quia misit eos ante~
+fáciem suam in omnem civitátem et locum, quo erat ipse venturus. Prædicatores~
+enim suos Dóminus sequitur: quia prædicátio prævenit, et tunc ad mentis nostræ~
+habitáculum Dóminus venit, quando verba exhortatiónis præcurrunt, atque per hoc~
+véritas in mente suscipitur.
+
+[Responsory8]
+R. In médio Ecclésiæ apéruit os ejus, * Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+V. Jucunditátem et exsultatiónem thesaurizávit super eum.
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
+&Gloria
+R. Et implévit eum Dóminus spíritu sapiéntiæ et intelléctus.
 
 [Lectio9]
 @Commune/C1a:Lectio9
 
 [Lectio93]
 !Commemoratio Pro S. Stephani Papa et Martyre
-Stephanus Romanus pontificátum gessit Valeriáno et Gallieno imperatóribus. Instituit ut sacerdótes et diáconi nusquam sacris vestibus, nisi in ecclésia, uteréntur. Baptizatos ab hæreticis, íterum baptizari vetuit, rescribens sancto Cypriáno verbis illis: Nihil innovétur, nisi quod traditum est. Multos étiam ad Christum convértit, in iis Olympium tribunum cum uxore Exsuperia et fílio Theodúlo, item Nemesium tribunum cum tota família, óculis Lucillæ ejus fíliæ restitútis: qui omnes Jesu Christi Mártyres fuérunt. Sed, vehementius jam ingravescénte persecutióne imperatórum, Stephanus, convocato clero, ad martyrium suos hortabátur, in cryptisque Mártyrum assidue Missas et concília celebrábat. Qui, cum aliquándo raptus esset ab infidelibus ad templum Martis ut ei sacrificaret, líbere negávit se dæmónibus eum honórem velle tribúere, qui uni Deo deberétur. Quibus in verbis Martis statua terræmotu cóncidit templumque contrémuit. Quare ómnibus aufugiéntibus qui Stephanum tenébant, Pontifex ad suos revértitur in cœmetérium Lucinæ; quos, divinis præceptis ínstruens, sacraménto corporis Christi communicávit; ibique, dum Missárum solemnia pérficit; adveniéntibus íterum imperatórum satellítibus, ei in sua sede caput abscínditur. Corpus, cum eadem sede conspersa Mártyris sánguine, a clericis sepúltum est in cœmeterio Callísti, quarto Nonas Augusti. Vixit in pontificatu annos tres, menses tres, dies viginti duos. Habuit ordinatiónes duas mense Decembri, quibus creávit presbyteros sex, diaconos quinque, episcopos tres.
+Stephanus Romanus pontificátum gessit Valeriáno et Gallieno imperatóribus.~
+Instituit ut sacerdótes et diáconi nusquam sacris vestibus, nisi in ecclésia,~
+uteréntur. Baptizatos ab hæreticis, íterum baptizari vetuit, rescribens sancto~
+Cypriáno verbis illis: Nihil innovétur, nisi quod traditum est. Multos étiam ad~
+Christum convértit, in iis Olympium tribunum cum uxore Exsuperia et fílio~
+Theodúlo, item Nemesium tribunum cum tota família, óculis Lucillæ ejus fíliæ~
+restitútis: qui omnes Jesu Christi Mártyres fuérunt. Sed, vehementius jam~
+ingravescénte persecutióne imperatórum, Stephanus, convocato clero, ad~
+martyrium suos hortabátur, in cryptisque Mártyrum assidue Missas et concília~
+celebrábat. Qui, cum aliquándo raptus esset ab infidelibus ad templum Martis ut~
+ei sacrificaret, líbere negávit se dæmónibus eum honórem velle tribúere, qui~
+uni Deo deberétur. Quibus in verbis Martis statua terræmotu cóncidit templumque~
+contrémuit. Quare ómnibus aufugiéntibus qui Stephanum tenébant, Pontifex ad~
+suos revértitur in cœmetérium Lucinæ; quos, divinis præceptis ínstruens,~
+sacraménto corporis Christi communicávit; ibique, dum Missárum solemnia~
+pérficit; adveniéntibus íterum imperatórum satellítibus, ei in sua sede caput~
+abscínditur. Corpus, cum eadem sede conspersa Mártyris sánguine, a clericis~
+sepúltum est in cœmeterio Callísti, quarto Nonas Augusti. Vixit in pontificatu~
+annos tres, menses tres, dies viginti duos. Habuit ordinatiónes duas mense~
+Decembri, quibus creávit presbyteros sex, diaconos quinque, episcopos tres.
 &teDeum
 
+[Ant Laudes]
+Dabo vobis * pastóres juxta cor meum, qui pascent vos sciéntia et doctrína.
+In brácchio suo * congregábit agnos, et in sinu suo levábit.
+Ego autem * libentíssime impéndam, et superimpéndar ipse pro animábus vestris.
+Bonus pastor * ánimam suam dat pro óvibus suis.
+Quasi stella matutína * in médio nébulæ et quasi sol refúlgens, sic ille effúlsit in templo Dei.
+
+[Capitulum Laudes]
+!2 Tim 2:1-3
+Tu ergo, fili mi, confortáre in grátia, quæ est in Christo Jesu: et quæ audísti~
+a me per multos testes, hæc comménda fidélibus homínibus, qui idónei erunt et~
+álios docére. Labóra sicut bonus miles Christi Jesu.
+
+[Hymnus Laudes]
+Exstáre, plebs Satículæ,
+Tanto nitéscens præsule:
+Christi beátum prædicant
+Cuncti per orbem sérvuli.
+_
+Oves benígnus ágnita
+En voce pastor ádvocat,
+Alfónsi, rectum salútis trámitem,
+Ac tuta monstrans páscula.
+_
+Frendens lupórum sævitas
+Ovile frustra círcumit;
+Noctes diésque límini
+Antístat ille pérvigil.
+_
+Quos trux egestás ópprimit,
+Manu fovénte súblevat;
+Ægros, geméntes, órphanos
+Horrére nescit cáritas.
+_
+Almæ Siónis ǽmulus,
+Purus sacérdos ímmolat;
+Sacra ut colántur sánctius,
+Legit minístros íntegros.
+_
+Templi nitórem díligens
+Opes opésque cóngerit;
+Ut Christo honórem præbeat
+Cibo libénter ábstinet.
+_
+Sit Trinitáti glória,
+Sit laus per omne sǽculum,
+Quæ protegénte cǽlicas
+Alfónsus arces áttigit.
+Amen.
+
+[Versum 2]
+V. Elégit eum Dóminus sacerdótem sibi.
+R. Et circa illum coróna fratrum.
+
+[Ant 2]
+Fratres mei caríssimi * et desideratíssimi, gáudium meum et coróna mea, imitátores mei estóte, sicut et ego Christi.
+
+[Capitulum Tertia]
+@:Capitulum Laudes
+
+[Responsory Tertia]
+R.br. Accépit armatúram * Zelus illíus.
+R. Accépit armatúram * Zelus illíus.
+V. Et diadéma speciéi de manu Dómini.
+R. Zelus illíus.
+&Gloria
+R. Accépit armatúram * Zelus illíus.
+_
+V. Exaltávit quasi tuba vocem suam.
+R. Et erúpit quasi mane lumen ejus.
+
+[Capitulum Sexta]
+!2 Cor 2:15-16
+Christi bonus odor sumus Deo, in iis qui salvi fiunt, et in iis, qui péreunt;~
+áliis quidem odor mortis in mortem, áliis autem odor vitæ in vitam.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Exaltávit * Quasi tuba vocem suam.
+R. Exaltávit * Quasi tuba vocem suam.
+V. Et erúpit quasi mane lumen ejus.
+R. Quasi tuba vocem suam.
+&Gloria
+R. Exaltávit * Quasi tuba vocem suam.
+_
+V. Gubernávit ad Dóminum cor suum.
+R. Et in diébus peccatórum corroborávit pietátem.
+
+[Capitulum Nona]
+!2 Cor 3:6
+Idóneos nos fecit minístros novi testaménti non líttera, sed spíritu; líttera~
+enim occídit, spíritus autem vivíficat.
+$Deo gratias
+
+[Responsory Nona]
+R.br. Gubernávit ad Dóminum * Cor suum.
+R. Gubernávit ad Dóminum * Cor suum.
+V. Et in diébus peccatórum corroborávit pietátem.
+R. Cor suum.
+&Gloria
+R. Gubernávit ad Dóminum * Cor suum.
+_
+V. In ascénsu altáris sancti.
+R. Glóriam dedit sanctitátis amíctum.
+
+[Ant Vespera 3]
+Sacérdos magnus, * qui in vita sua suffúlsit domum et in diébus suis corroborávit templum.;;109
+Potens * in terra erit semen ejus, generátio rectórum benedicétur.;;110
+Dispérsit, * dedit paupéribus; justítia ejus manet in sǽculum sǽculi.;;115
+Justítiam tuam * non abscóndi in corde meo, veritátem tuam et salutáre tuum dixi.;;127
+Passer * invénit sibi domum, et turtur nidum sibi: altária tua, Dómine virtútum, Rex meus et Deus meus.;;131
+
+[Versum 3]
+@Versum 1
+
+[Ant 3]
+O Doctor óptime, * Ecclésiæ sanctæ lumen, beáte Alfónse María, divínæ legis amátor, deprecáre pro nobis Fílium Dei.
+
 [Lectio94]
-Alfónsus María de Ligório, Neápoli nobílibus paréntibus natus, vix ut adolévit, ægrótis in públicis nosocomíis inservíre ac jugi in templis oratióni vacáre in delíciis habébat. Patri obtémperans, causárum patrocínia suscépit; fori tamen perícula expértus, ejúsmodi vitæ institútum ultro dimísit. Avíta primogenitúra abdicáta, et sacerdótio initiátus, tanto zelo írruit in vítia, ut ingéntes perditórum hóminum conversiónes perágeret. Páuperum præsértim et ruricolárum miserátus, congregatiónem Presbyterórum sanctíssimi Redemptóris ad eórum evangelizatiónem instítuit. Ne autem a propósito umquam divérteret, perpétuo se voto obstrínxit nullam témporis jactúram faciéndi. Domínicæ passiónis et sacræ Eucharístiæ contemplátor assíduus, atque Dei Genetrícis cultor exímius, non semel cæléstis ejus protectiónis signis est recreátus. Multa édidit sacra eruditióne ac pietáte reférta, quibus ánimas Christo lucrifácere stúduit. Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhórruit; apostólica tamen auctoritáte coáctus, sanctæ Agathæ Gothórum ecclésiam gubernándam suscépit. Liberális in páuperes, ómnibus ómnia factus, sanctimoniáles ad perfectiórem vivéndi formam redégit. Episcopátu ob graves habitualésque morbos dimísso, ad suos revértitur. Tandem nonagenárius, innocéntia vitæ et pœniténtia fulgens, anno millésimo septingentésimo octogésimo séptimo placidíssime exspirávit. Eum Pius Papa nonus Ecclésiæ universális Doctórem declarávit, et Pius duodécimus ómnium confessariórum ac moralistárum cæléstem apud Deum Patrónum constítuit.
+Alfónsus María de Ligório, Neápoli nobílibus paréntibus natus, vix ut adolévit,~
+ægrótis in públicis nosocomíis inservíre ac jugi in templis oratióni vacáre in~
+delíciis habébat. Patri obtémperans, causárum patrocínia suscépit; fori tamen~
+perícula expértus, ejúsmodi vitæ institútum ultro dimísit. Avíta primogenitúra~
+abdicáta, et sacerdótio initiátus, tanto zelo írruit in vítia, ut ingéntes~
+perditórum hóminum conversiónes perágeret. Páuperum præsértim et ruricolárum~
+miserátus, congregatiónem Presbyterórum sanctíssimi Redemptóris ad eórum~
+evangelizatiónem instítuit. Ne autem a propósito umquam divérteret, perpétuo se~
+voto obstrínxit nullam témporis jactúram faciéndi. Domínicæ passiónis et sacræ~
+Eucharístiæ contemplátor assíduus, atque Dei Genetrícis cultor exímius, non~
+semel cæléstis ejus protectiónis signis est recreátus. Multa édidit sacra~
+eruditióne ac pietáte reférta, quibus ánimas Christo lucrifácere stúduit. Ab~
+ecclesiásticis dignitátibus sibi oblátis constantíssime abhórruit; apostólica~
+tamen auctoritáte coáctus, sanctæ Agathæ Gothórum ecclésiam gubernándam~
+suscépit. Liberális in páuperes, ómnibus ómnia factus, sanctimoniáles ad~
+perfectiórem vivéndi formam redégit. Episcopátu ob graves habitualésque morbos~
+dimísso, ad suos revértitur. Tandem nonagenárius, innocéntia vitæ et pœniténtia~
+fulgens, anno millésimo septingentésimo octogésimo séptimo placidíssime~
+exspirávit. Eum Pius Papa nonus Ecclésiæ universális Doctórem declarávit, et~
+Pius duodécimus ómnium confessariórum ac moralistárum cæléstem apud Deum~
+Patrónum constítuit.
 &teDeum

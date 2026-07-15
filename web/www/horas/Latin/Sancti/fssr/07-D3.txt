@@ -64,9 +64,6 @@ Amen.
 [Ant 1]
 Salus autem mea * in sempitérnum erit, et iustítia mea in generatiónes generatiónum, allelúja.
 
-[Ant Laudes]
-@:Ant Vespera:s/;;.*//g
-
 [Invit]
 Redemptórem sæculórum, ipsum Regem Angelórum, * Adorémus Dóminum.
 
@@ -158,9 +155,200 @@ Dóminus Deus tuus.
 [Responsory3]
 @Tempora/Epi2-0:Responsory2:s/(R\. .*$)/\1\n&Gloria\n\1/
 
+[Lectio4]
+Sermo sancti Leonis Papæ
+!Sermo 1 de jejunio 10 mensis et collectis
+Ut fidéliter, dilectíssimi, atque sapiénter creatiónis nostræ intelligámus~
+exórdium, inveniémus hóminem ideo ad imáginem Dei cónditum, ut imitátor sui~
+esset auctóris: et hanc esse naturális nostri géneris dignitátem, si in nobis,~
+quasi in quodam spéculo, divínæ benignitátis forma respléndeat. Ad quam cotídie~
+nos útique réparat grátia Salvatóris, dum quod cécidit in Adam primo, érigitur~
+in secúndo. Causa autem reparatiónis nostræ non est, nisi misericórdia Dei,~
+quem non diligerémus, nisi prius nos ipse diléxisset, et ténebras ignorántiæ~
+nostræ suæ veritátis luce discutéret.
+
+[Responsory4]
+R. A dextris est mihi Dóminus, ne commovéar: * Propter hoc dilatátum est cor meum, et exsultávit lingua mea.
+V. Dóminus pars hereditátis meæ, et calicis mei.
+R. Propter hoc dilatátum est cor meum, et exsultávit lingua mea.
+
+[Lectio5]
+Diligéndo ítaque nos Deus, ad imáginem suam nos réparat: et ut in nobis formam~
+suæ bonitátis invéniat, dat unde ipsi quoque, quod operátur, operémur,~
+accéndens scílicet méntium nostrárum lucérnas, et igne nos suæ caritátis~
+inflammans, ut non solum ipsum, sed étiam quidquid díligit, diligámus. Nam si~
+inter hómines ea demum firma amícitia est, quam morum similitúdo sociárit, cum~
+tamen parítas voluntátum sæpe in reprobos tendat afféctus: quantum nobis~
+optándum, atque niténdum est, ut in nullo ab iis, quæ Deo sunt plácita,~
+discrepémus? De quo dicit Prophéta: Quóniam ira in indignatióne ejus, et vita~
+in voluntáte ejus, quia non áliter nobis erit dignitas divínæ maiestátis, nisi~
+imitatio fúerit voluntátis.
+
+[Responsory5]
+R. Apud Dóminum misericórdia * Et copiósa apud eum redémptio.
+V. Húmiles spíritu salvábit.
+R. Et copiósa apud eum redémptio.
+
+[Lectio6]
+Dicénte ítaque Dómino: Díliges Dóminum Deum tuum ex toto corde tuo, et ex tota~
+mente tua: et díliges próximum tuum sicut teípsum, suscípiat fidélis ánima~
+auctóris sui atque rectóris immarcescíbilem caritátem, totámque se étiam ejus~
+subíciat voluntáti, in cujus opéribus atque judíciis nihil vacat a veritáte~
+justítiæ, nihil a miseratióne cleméntiæ. Quóniam etsi magnis quis labóribus, et~
+multis fatigétur incómmodis, bona est illi causa tolerándi, qui se advérsis vel~
+corrigi intéllegit, vel probári.
+
+[Responsory6]
+R. Rememoráti sunt, quia Deus adjútor est eórum: * Et Deus excélsus Redémptor eórum est.
+V. Et pavit eos in innocéntia cordis sui.
+R. Et Deus excélsus Redémptor eórum est.
+&Gloria
+R. Et Deus excélsus Redémptor eórum est.
+
+[Lectio7]
+Léctio sancti Evangélii secúndum Joánnem
+!Jo 3:13-18
+In illo témpore: Dixit Jesus Nicodémo: Nemo ascéndit in cælum, nisi qui descéndit de cælo, Fílius hóminis, qui est in cælo. Et réliqua.
+_
+Homilía sancti Augustíni Epíscopi
+!Tractatus in cap. 3 Joann.
+Nemo ascéndit in cælum, nisi qui de cælo descéndit. Descéndit enim, et mórtuus~
+est, et ipsa morte liberávit nos a morte. Morte occísus, mortem occídit. Et~
+nostis, fratres, quia mors ista per diáboli invídiam intrávit in mundum. Deus~
+mortem non fecit, Scriptúra lóquitur: Nec lætátur, inquit, in perditióne~
+vivórum; creávit enim, ut essent ómnia. Sed quid ibi ait? Invidia autem diáboli~
+mors intrávit in orbem terrárum. Ad mortem a diábolo propinatam non veníret~
+homo vi adáctus; non enim cogéndi poténtiam diábolus habébat, sed persuadéndi~
+versútiam. Si non consentíres, nihil invéxerat diábolus; consénsio tua, o homo,~
+te perdúxit ad mortem. A mortáli mortáles nati, et ex immortálibus mortáles~
+facti. Ab Adam omnes hómines mortáles; Jesus autem Fílius Dei, Verbum Dei, per~
+quod facta sunt ómnia, únicus, æquális Patri, mortális factus est, quia Verbum~
+caro factum est, et habitávit in nobis. Si ergo mortem suscépit, et mortem~
+suspéndit in cruce, de ipsa morte liberántur mortáles. Quod in figúra factum~
+est apud antíquos, commemorávit illud Dóminus.
+
+[Responsory7]
+R. Laudábilis pópulus, * Quem Dóminus exercítuum benedíxit dicens: Opus mánuum meárum tu es; heréditas mea Israël.
+V. Beáta gens, cujus est Dóminus Deus; pópulus eléctus in hereditátem.
+R. Quem Dóminus exercítuum benedíxit dicens: Opus mánuum meárum tu es; heréditas mea Israël.
+
+[Lectio8]
+Et sicut, inquit, Móyses exaltávit serpéntem in erémo, ita exaltári opórtet~
+Fílium hóminis: Quis est serpens exaltátus? Mors Dómini in cruce. Quia enim a~
+serpénte mors, per serpéntis effígiem figuráta est mors. Morsus serpéntum~
+lethális, mors Dómini vitális. Atténditur serpens, ut nihil váleat serpens.~
+Quid est hoc? Atténditur mors, ut nihil váleat mors. Sed cujus mors? Mors vitæ.~
+Nonne vita Christus? Et tamen mórtuus est Christus.
+
+[Responsory8]
+R. Duo Séraphim clamábant alter ad alterum: * Sanctus, sanctus, sanctus Dóminus Deus Sábaoth: * Plena est omnis terra glória ejus.
+V. Tres sunt, qui testimónium dant in cælo, Pater, Verbum, et Spíritus Sanctus: et hi tres unum sunt.
+R. Plena est omnis terra glória ejus.
+&Gloria
+R. Plena est omnis terra glória ejus.
+
+[Lectio9]
+Interim modo, fratres, ut a peccáto sanémur, Christum crucifíxum intuémur: quia~
+sicut Móyses, inquit, exaltávit serpéntem in erémo, ita exaltári opórtet Fílium~
+hóminis; ut omnis, qui credit in eum, non péreat, sed hábeat vitam ætérnam.~
+Quómodo, qui intuébantur illum serpéntem, non períbant morsibus serpentum: sic,~
+qui intuéntur fide mortem Christi, sanántur a morsibus peccatórum. Sed illi~
+sanabántur a morte ad vitam temporálem: hic autem ait, ut hábeant vitam~
+ætérnam. Hoc enim interest inter figurátam imáginem, et rem ipsam: figúra~
+præstábat vitam temporálem; res ipsa, cujus illa figúra erat, præstat vitam~
+ætérnam.
+&teDeum
+
 
 [Ant Laudes]
-@:Ant Vespera:s/;;.*//g
+Cantáte Dómino, * quóniam magnífice fecit: annuntiáte hoc in univérsa terra.
+Ecce Deus * Salvátor meus, fiduciáliter agam: quia factus est mihi in salútem, allelúja.
+Hauriétis aquas * in gáudio de fóntibus Salvatóris, et dicétis: Confitémini Dómino, et invocáte nomen ejus.
+Facta est salus, * et virtus, et regnum Dei nostri, et potéstas Christi ejus.
+Exsúlta et lauda, * habitátio Sion, quia magnus in médio tui Sanctus Israël.
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+Salútis humánæ Sator,
+Jesu, voluptas córdium,
+Orbis redémpti Cónditor,
+Et casta lux amántium.
+_
+Quæ victus es cleméntia,
+Ut nostra ferres crímina?
+Mortem subíres ínnocens,
+A morte nos ut tólleres?
+_
+Te cogat indulgéntia,
+Ut damna nostra sárcias,
+Tuíque vultus cómpotes
+Dites beáto lúmine.
+_
+Jesu, tibi sit glória,
+Qui natus es de Vírgine,
+Cum Patre, et almo Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Versum 2]
+V. Dómine, refúgium factus es nobis.
+R. A generatióne, et progénie.
+
+[Ant 2]
+Ecce Deus noster iste, * exspectávimus eum, et salvábit nos: sustinuimus eum; exsultábimus, et lætábimur in salutári ejus, allelúja.
+
+[Versum Prima]
+Qui redemísti mundum, Christe.
+
+[Capitulum Tertia]
+@:Capitulum Laudes
+
+[Responsory Tertia]
+R.br. Rédime me, Dómine, * Et miserére mei.
+R. Rédime me, Dómine, * Et miserére mei.
+V. In ecclésiis benedícam te, Dómine.
+R. Et miserére mei.
+&Gloria
+R. Rédime me, Dómine, * Et miserére mei.
+_
+V. Meménto nostri, Dómine, in beneplácito pópuli tui.
+R. Vísita nos in salutári tuo.
+
+[Capitulum Sexta]
+!1 Cor 1:30
+Ipso autem vos estis in Christo Jesu, qui factus est nobis sapiéntia a Deo, et justítia, et sanctificátio, et redémptio.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Meménto nostri, Dómine, * In beneplácito pópuli tui.
+R. Meménto nostri, Dómine, * In beneplácito pópuli tui.
+V. Vísita nos in salutári tuo.
+R. In beneplácito pópuli tui.
+&Gloria
+R. Meménto nostri, Dómine, * In beneplácito pópuli tui.
+_
+V. Redemísti nos, Dómine, in sánguine tuo.
+R. Et fecísti nos Deo nostro regnum.
+
+[Capitulum Nona]
+!Apoc 4:11; 5:9-10
+Dignus es, Dómine Deus noster, accípere glóriam, et honórem, et virtútem:~
+quóniam occísus es, et redemísti nos Deo in sánguine tuo ex omni tribu, et~
+lingua, et pópulo, et natióne, et fecísti nos Deo nostro regnum.
+$Deo gratias
+
+[Responsory Nona]
+R.br. Notam fecísti in pópulis * Virtútem tuam.
+R. Notam fecísti in pópulis * Virtútem tuam.
+V. Redemísti in brácchio tuo pópulum tuum.
+R. Virtútem tuam.
+&Gloria
+R. Notam fecísti in pópulis * Virtútem tuam.
+_
+V. Dómine, refúgium factus es nobis.
+R. A generatióne, et progénie.
 
 [Versum 3]
 @Versum 1
