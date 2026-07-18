@@ -5,6 +5,7 @@ In Solemnitate Ss.mi Redemptoris;;I Classis;;6;;ex C5
 9 lectiones
 Psalmi Dominica
 Antiphonas horas
+Festum Domini
 
 [Oratio]
 Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devícta~
