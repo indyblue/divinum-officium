@@ -369,6 +369,7 @@ Fratres mei caríssimi * et desideratíssimi, gáudium meum et coróna mea, imit
 
 [Capitulum Tertia]
 @:Capitulum Laudes
+$Deo gratias
 
 [Responsory Tertia]
 R.br. Accépit armatúram * Zelus illíus.

@@ -12,7 +12,7 @@ Deus, qui Unigénitum tuum mundi Redemptórem constituísti, et per eum, devíct
 morte, nos misericórditer ad vitam reparásti: concéde; ut, hæc benefícia~
 recoléntes, tibi perpétua caritáte adhærére, et eiúsdem redemptiónis fructum~
 percípere mereámur.
-$Per eundem Dominum.
+$Per eumdem
 
 [Ant Vespera]
 Virgam virtútis * suæ emíttet Dóminus ex Sion, et regnábit in sǽculum sǽculi.;;109
@@ -311,6 +311,7 @@ Qui redemísti mundum.
 
 [Capitulum Tertia]
 @:Capitulum Laudes
+$Deo gratias
 
 [Responsory Tertia]
 R.br. Rédime me, Dómine, * Et miserére mei.
